@@ -14,3 +14,11 @@ GPL v3 License (i.e. For commercial use, cite me please! Otherwise, feel free to
 # Author
 
 Hyunggi Chang (changh95)
+
+# Some Motivation
+
+## C++
+
+[!](https://github.com/changh95/teach_MATLAB_and_CPP/blob/master/memes/cpp.jpg?raw=true)
+
+[!](https://github.com/changh95/teach_MATLAB_and_CPP/blob/master/memes/matlab.jpg?raw=true)
