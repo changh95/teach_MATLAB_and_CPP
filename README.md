@@ -17,8 +17,5 @@ Hyunggi Chang (changh95)
 
 # Some Motivation
 
-## C++
-
-![](https://github.com/changh95/teach_MATLAB_and_CPP/blob/master/memes/cpp.jpg?raw=true)
-
-![](https://github.com/changh95/teach_MATLAB_and_CPP/blob/master/memes/matlab.jpg?raw=true)
+<img src="https://github.com/changh95/teach_MATLAB_and_CPP/blob/master/memes/matlab.jpg?raw=true" width="500">
+<img src="https://github.com/changh95/teach_MATLAB_and_CPP/blob/master/memes/cpp.jpg?raw=true" width="500">
